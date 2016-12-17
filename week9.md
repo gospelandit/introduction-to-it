@@ -87,5 +87,5 @@ What is Github? What kind of effect it gave to the world of open source software
 
 
 20)
-Why Microsoft start to express that it "loves Linux and Open Source"? Explain the change of Microsoft's attitude which was seen in "Halloween document" to "Bash on Windows" Explain how the change is related with the change of popularity of desktop application, web application, mobile application and usage of cloud computing as back end for those applications. Explain why Microsoft became the organization with the most open source contributors in Github in 2016.
+Why Microsoft started to express that it "loves Linux and Open Source"? Explain the change of Microsoft's attitude which was seen in "Halloween document" to "Bash on Windows" Explain how the change is related with the change of popularity of desktop application, web application, mobile application and usage of cloud computing as back end for those applications. Explain why Microsoft became the organization with the most open source contributors in Github in 2016.
 
