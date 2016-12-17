@@ -2,8 +2,11 @@
 
 This course aims to help learners locate the position of information technology and its purpose and utilization in context of God’s work of building His Kingdom through giving Christian or Non-Christian IT engineers with inspiration for inventing new technology. This course especially do this by introducing historical development and advancement of open source developer community.
 
+##Instruction
+Learners are advised to watch video, read the week's textbook, and then think and write answers to the questions of the week's test.
+
 ##Textbook
-This course uses writings from Eric Raymond as textbook. Learners are advised to watch video, read the week's textbook, and then think and write answers to the questions of the week's test.
+This course uses writings from Eric Raymond as textbook. 
 
 ###Week 1
 [A Brief History of Hackerdom](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/) 
