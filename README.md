@@ -68,3 +68,6 @@ Open Source Adoption in the Enterprise
 See why Microsoft loves Linux and Open Source
 
 [![video](http://img.youtube.com/vi/HjuGBCB0WSQ/0.jpg)](http://www.youtube.com/watch?v=HjuGBCB0WSQ)
+
+##More to read
+[Bye-bye Ballmer, hello open source? Microsoft's upcoming options](http://www.infoworld.com/article/2612373/open-source-software/bye-bye-ballmer--hello-open-source--microsoft-s-upcoming-options.html) by Simon Phipps
