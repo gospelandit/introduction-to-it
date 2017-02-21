@@ -73,3 +73,4 @@ See why Microsoft loves Linux and Open Source
 [Bye-bye Ballmer, hello open source? Microsoft's upcoming options](http://www.infoworld.com/article/2612373/open-source-software/bye-bye-ballmer--hello-open-source--microsoft-s-upcoming-options.html) by Simon Phipps
 
 [Open Government](https://github.com/oreillymedia/open_government) by O'Reilly Media
+[Open Source Guides](https://opensource.guide/) by Github
