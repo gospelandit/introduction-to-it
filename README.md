@@ -75,3 +75,6 @@ See why Microsoft loves Linux and Open Source
 [Open Government](https://github.com/oreillymedia/open_government) by O'Reilly Media
 
 [Open Source Guides](https://opensource.guide/) by Github
+
+##Discussion
+[Ask HN: Why don't more open-source projects monetize?](https://news.ycombinator.com/item?id=14446516) by Hacker News
