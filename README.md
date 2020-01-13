@@ -27,7 +27,7 @@ This course uses writings from Eric Raymond as textbook.
 ### Week 1
 Revolution OS (GNU, Linux, FOSS)
 
-[![video](http://img.youtube.com/vi/k84FMc1GF8M/0.jpg)](http://www.youtube.com/watch?v=k84FMc1GF8M)
+[![video](http://img.youtube.com/vi/4vW62KqKJ5A/0.jpg)](https://www.youtube.com/watch?v=4vW62KqKJ5A)
 
 ### Week 2
 The Code: Story of Linux documentary
